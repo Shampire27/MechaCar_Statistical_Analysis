@@ -34,7 +34,7 @@
 
 ## T-Tests on Suspension Coils
 
-Based on the t-test, p-value of PSI (0.06028) is much different with standard 1, while the meanof PSI (1498.78) is significantly different with the population mean (1500).
+Based on the t-test, p-value of PSI (0.06028) is much different with standard 1, while the mean of total (1498.78) is significantly different with the population mean (1500).
 
 ![D3t](Analysis/D3t.png)
 
