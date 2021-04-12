@@ -2,10 +2,6 @@
 
 ## Linear Regression to Predict MPG
 
-
-![D1](Analysis/D1.png)
-
-
 - **Q: Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**
 
     **A:** Vehicle length and ground clearance
@@ -17,6 +13,9 @@
 - **Q: Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
 
     **A:** Yes, because the p-value is equal to 5.35e-11, which is smaller than 0.05.
+
+![D1](Analysis/D1.png)
+
 
 
 ## Summary Statistics on Suspension Coils
