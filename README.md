@@ -58,6 +58,7 @@ However, t-test result for lot 3 shows its mean is significantly different with 
 **Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.**
 
 **Q: What metric or metrics are you going to test?**
+
 A: cost
 
 **Q: What is the null hypothesis or alternative hypothesis?**
@@ -72,5 +73,6 @@ A: Multiple linear regression.  Because it could test if the cost have high corr
 
 
 **Q: What data is needed to run the statistical test?**
-Population mean of cost is needed for comparing purposes.
+
+A: Population mean of cost is needed for comparing purposes.
 
